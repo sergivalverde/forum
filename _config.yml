@@ -10,16 +10,16 @@ author: Daniel Klco
 # Uncomment if you are planning to run the blog in a subdirectory
 # Note - if you enable this, and attempt to view your site locally you have to use the baseurl in your local path.
 # Example, you must use http://localhost:4000/path/to/blog
-baseurl: /Jekyll-Disqus-Forum
+baseurl: /forum
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
-url: http://klcodanr.github.io/Jekyll-Disqus-Forum
+url: http://sergivalverde.github.io/forum
 
 # Exclude system files
 exclude: [.gitignore]
 
 # The disqus shortname for your forum
-disqus_shortname: jekylldisqusforum
+disqus_shortname: codeclubcat
 
 # The public key for your disqus application
-disqus_publickey: cVy9WcjLl6TI8EbBAL6PDy8FqMr4gm3HXXfERv7anOYHj3AZAyO2jD66Pqqe71B0
+disqus_publickey: lbyFJBkFRgvdN4TWZ7mE5NRzTzMeut5RvuOTdTSWsFE5CdSlz8M0jaWNiAfUtu9i
